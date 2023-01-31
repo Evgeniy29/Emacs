@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
     parser.setApplicationDescription(QCoreApplication::applicationName());
     parser.addHelpOption();
     parser.addVersionOption();
-    parser.addPositionalArgument("file", "The file to open.");
+    parser.addPositionalArgument("file", "The file to Open.");
     parser.process(app);
 
     MainWindow mainWin;
