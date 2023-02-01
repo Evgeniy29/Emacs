@@ -25,3 +25,4 @@ int main(int argc, char *argv[])
     mainWin.show();
     return app.exec();
 }
+//add release_1.0.0
