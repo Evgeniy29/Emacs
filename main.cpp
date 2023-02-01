@@ -4,6 +4,8 @@
 
 #include "mainwindow.h"
 
+// Hello my dear friends!
+
 int main(int argc, char *argv[])
 {
     Q_INIT_RESOURCE(application);
